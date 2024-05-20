@@ -4,7 +4,6 @@
 Conteúdo gerado por IA's , para ajudar no crecsimento de uma página no Youtube.
 
 ## 🤖 Tecnologias Utilizadas
-
 **Inteligências Artificiais Generativas (IAGs) e Ferramentas Empregadas:**
 
 - **[ChatGPT](https://chatgpt.com/):** Utilizado para a criação de texto e diálogos.
@@ -13,12 +12,8 @@ Conteúdo gerado por IA's , para ajudar no crecsimento de uma página no Youtube
 - **[Capcut](https://www.capcut.com/pt-br/):** Ferramenta utilizada como editor de vídeo para aprimorar e finalizar produções audiovisuais.
 
 
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue um dos vídeos postados no Youtube, utilizando as IAGs. [Clique Aqui](https://www.youtube.com/watch?v=t1bForUs8JI),com o botão direito e selecione "Abrir link em uma nova guia.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+A utilização de IAGs na criação de uma página oferece eficiência e inspiração, embora ainda dependa da orientação humana para garantir resultados de alta qualidade.
